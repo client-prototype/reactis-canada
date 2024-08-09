@@ -326,7 +326,7 @@ a:hover {
 } */
 .content__container__list {
   margin-top: 0;
-  padding-left: 125px;
+  padding-left: 145px;
   text-align: left;
   list-style: none;
   -webkit-animation-name: change;
@@ -368,7 +368,7 @@ a:hover {
     float: left;
     margin: 0;
   }
-  .content__container__list {
+  v .content__container__list {
     margin-top: 0;
     padding-left: 115px;
     text-align: left;
